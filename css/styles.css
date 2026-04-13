@@ -13,6 +13,9 @@ body {
     line-height: 1.16667;
     letter-spacing: 0.03em;
 }
+header .logo {
+    color: #2E2F42;
+}
 .nav {
     font-weight: 500;
     font-size: 16px;
