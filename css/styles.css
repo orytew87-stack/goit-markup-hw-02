@@ -22,6 +22,9 @@ header .logo {
     line-height: 1.5;
     letter-spacing: 0.02em;      
 }
+.nav a {
+    color: #2E2F42;
+}
 .nav a:hover {
     color: #404BBF;
 }
