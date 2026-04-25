@@ -3,6 +3,7 @@ body {
     background-color: #FFFFFF;
     font-family: "Roboto", sans-serif;
     color: #434455;
+    margin: 0;
 }
 
 .logo {
@@ -40,7 +41,6 @@ body {
     color: #434455;
     text-decoration: none;
 }
-
 .contact-link:hover,
 .contact-link:focus {
     color: #404bbf;
@@ -165,6 +165,10 @@ ul {
 .footer-text {
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #F4F4FD;
+    color: var(--cloud);
     max-width: 264px;
+}
+:root {
+    --cloud: #f4f4fd;
+
 }
