@@ -73,14 +73,6 @@ ul {
 .hero-button:focus {
     background-color: #404bbf;
 }
-.visually-hidden {
-    margin: -1px;
-    border: 0;
-    white-space: nowrap;
-    clip-path: inset(100%);
-    clip: rect(0 0 0 0);
-    overflow: hidden;
-}
 .team-section {
     background-color: #F4F4FD;
 }
@@ -119,9 +111,6 @@ ul {
 }
 .footer-section {
     background-color: #2e2f42;
-}
-.footer-logo {    
-    margin-bottom: 16px;  
 }
 .footer-accent {
     color: #f4f4fd;
